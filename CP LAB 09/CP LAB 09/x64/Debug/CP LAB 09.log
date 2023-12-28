@@ -1,0 +1,5 @@
+﻿  Problem 4.cpp
+Problem 2.obj : error LNK2005: main already defined in Problem 1.obj
+Problem 3.obj : error LNK2005: main already defined in Problem 1.obj
+Problem 4.obj : error LNK2005: main already defined in Problem 1.obj
+F:\CP LAB 09\x64\Debug\CP LAB 09.exe : fatal error LNK1169: one or more multiply defined symbols found
